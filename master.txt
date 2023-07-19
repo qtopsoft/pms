@@ -1,4 +1,8 @@
 this is my first file
 this is new line
+<<<<<<< HEAD
 this is 3rd line
 after reset
+=======
+this is 3rd line
+>>>>>>> 860a0254e4db9637702b1da62ee2c21a46ae0dd5
